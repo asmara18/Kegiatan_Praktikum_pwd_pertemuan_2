@@ -1,0 +1,1 @@
+INSERT INTO `mahasiswa`(`nim`, `nama`, `jkel`, `alamat`, `tgllhr`) VALUES ('MHS01','Siti Aminah','P','SOLO','1995-10-01'),('MHS02','Rita','P','SOLO','19999-01-01'),('MHS03','Amirudin','L','SEMARANG','1998-08-11'),('MHS04','Siti Maryam','P','JAKARTA','1995-04-15')
